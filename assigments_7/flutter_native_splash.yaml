@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#ffffff"
+
+  image: assets/images/facebook_logo.png
+
+  branding: assets/images/from_meta_logo.png
+  branding_mode: bottom
+  branding_bottom_padding: 24
+
+  fullscreen: true
+
+  android_12:
+    color: "#ffffff"
+    image: assets/images/facebook_logo.png
+    icon_background_color: "#ffffff"
+    branding: assets/images/from_meta_logo.png   
+    branding_mode: bottom
